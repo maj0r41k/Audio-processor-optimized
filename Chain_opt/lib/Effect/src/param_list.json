@@ -1,0 +1,9 @@
+{
+  "name" : "compressor",
+  "parameters ": [
+    {
+      "threshold": -6,
+      "ratio" : 2
+    }
+  ]
+}

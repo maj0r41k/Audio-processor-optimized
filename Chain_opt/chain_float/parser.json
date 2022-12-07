@@ -1,0 +1,101 @@
+{
+  "eq_params": [
+    
+        { "id"  : 0, "val" : 20,   "name": "1_freq" },
+        { "id"  : 1, "val" : -6,   "name": "1_gain" }, 
+        { "id"  : 2, "val" : 0.1,  "name": "1_Q" },
+        { "id"  : 3, "val" : 1,    "name": "1_type" },
+ 
+        { "id"  : 4, "val" : 250,  "name": "2_freq" },
+        { "id"  : 5, "val" : -2,   "name": "2_gain" }, 
+        { "id"  : 6, "val" : 0.5,  "name": "2_Q" },
+        { "id"  : 7, "val" : 3,    "name": "2_type" },
+         
+        { "id"  :  8, "val" : 500,  "name": "3_freq" },
+        { "id"  :  9, "val" : -6,   "name": "3_gain" }, 
+        { "id"  : 10, "val" : 4,    "name": "3_Q" },
+        { "id"  : 11, "val" : 2,    "name": "3_type" },
+ 
+        { "id"  : 12, "val" : 1000, "name": "4_freq" },
+        { "id"  : 13, "val" : -6,    "name": "4_gain" }, 
+        { "id"  : 14, "val" : 6,    "name": "4_Q" },
+        { "id"  : 15, "val" : 2,    "name": "4_type" },
+ 
+        { "id"  : 16, "val" : 2000, "name": "5_freq" },
+        { "id"  : 17, "val" : -12,   "name": "5_gain" }, 
+        { "id"  : 18, "val" : 6,   "name": "5_Q" },
+        { "id"  : 19, "val" : 2,    "name": "5_type" },
+ 
+        { "id"  : 20, "val" : 4000, "name": "6_freq" },
+        { "id"  : 21, "val" : 3,    "name": "6_gain" }, 
+        { "id"  : 22, "val" : 4,    "name": "6_Q" },
+        { "id"  : 23, "val" : 2,    "name": "6_type" },  
+ 
+        { "id"  : 24, "val" : 8000, "name": "7_freq" },
+        { "id"  : 25, "val" : -6,   "name": "7_gain" }, 
+        { "id"  : 26, "val" : 6,    "name": "7_Q" },
+        { "id"  : 27, "val" : 2,    "name": "7_type" },
+ 
+        { "id"  : 28, "val" : 12000,"name": "8_freq" },
+        { "id"  : 29, "val" : 3,    "name": "8_gain" }, 
+        { "id"  : 30, "val" : 6,    "name": "8_Q" },
+        { "id"  : 31, "val" : 2,    "name": "8_type" },
+ 
+        { "id"  : 32, "val" : 14000,"name": "9_freq" },
+        { "id"  : 33, "val" : -6,   "name": "9_gain" }, 
+        { "id"  : 34, "val" : 0.1,  "name": "9_Q" },
+        { "id"  : 35, "val" : 4,    "name": "9_type" },
+ 
+        { "id"  : 36, "val" : 18000,"name": "10_freq" },
+        { "id"  : 37, "val" : -6,   "name": "10_gain" }, 
+        { "id"  : 38, "val" : 0.1,  "name": "10_Q" },
+        { "id"  : 39, "val" : 0,    "name": "10_type" },
+ 
+        { "id"  : 40, "val" : 48000,"name": "sample_rate"},
+    
+        { "id"  : 100, "val" : -6,"name": "treshold"},
+        { "id"  : 101, "val" :  400,"name": "ratio"},
+        { "id"  : 102, "val" : 30,"name": "t_Attack"},
+        { "id"  : 103, "val" : 40,"name": "t_Release"},
+        { "id"  : 104, "val" :  0,"name": "makeUp"},
+        { "id"  : 105, "val" : 48000,"name": "samplerate"},
+        { "id"  : 106, "val" :  0,"name": "tauenvatt"},
+        { "id"  : 107, "val" : 20,"name": "tauenvrel"},
+        { "id"  : 108, "val" :  1,"name": "bypass"},
+
+        { "id"  : 110, "val" : -6, "name": "treshold"},
+        { "id"  : 111, "val" :  2,"name": "ratio"},
+        { "id"  : 112, "val" : 30,"name": "t_Attack"},
+        { "id"  : 113, "val" : 40,"name": "t_Release"},
+        { "id"  : 114, "val" :  0,"name": "makeUp"},
+        { "id"  : 115, "val" : 48000,"name": "samplerate"},
+        { "id"  : 116, "val" :  0,"name": "tauenvatt"},
+        { "id"  : 117, "val" : 30,"name": "tauenvrel"},
+        { "id"  : 118, "val" :  1,"name": "bypass"},
+
+        { "id"  : 120, "val" : -6,"name": "treshold"},
+        { "id"  : 121, "val" :  3,"name": "ratio"},
+        { "id"  : 122, "val" : 30,"name": "t_Attack"},
+        { "id"  : 123, "val" : 40,"name": "t_Release"},
+        { "id"  : 124, "val" :  0,"name": "makeUp"},
+        { "id"  : 125, "val" : 48000,"name": "samplerate"},
+        { "id"  : 126, "val" :  0,"name": "tauenvatt"},
+        { "id"  : 127, "val" : 30,"name": "tauenvrel"},
+        { "id"  : 128, "val" :  1,"name": "bypass"},
+
+        { "id"  : 130, "val" : -6,"name": "treshold"},
+        { "id"  : 131, "val" : 40,"name": "ratio"},
+        { "id"  : 132, "val" : 30,"name": "t_Attack"},
+        { "id"  : 133, "val" : 40,"name": "t_Release"},
+        { "id"  : 134, "val" :  0,"name": "makeUp"},
+        { "id"  : 135, "val" : 48000,"name": "samplerate"},
+        { "id"  : 136, "val" :  0,"name": "tauenvatt"},
+        { "id"  : 137, "val" : 30,"name": "tauenvrel"},
+        { "id"  : 138, "val" :  1,"name": "bypass"},
+
+        { "id"  : 200, "val" : 1000,"name": "band_1"},
+        { "id"  : 201, "val" : 5000,"name": "band_2"},
+        { "id"  : 202, "val" : 10000,"name": "band_3"},
+        { "id"  : 210, "val" : 48000,"name": "samplerate"}
+  ]
+}
